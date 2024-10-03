@@ -1,0 +1,12 @@
+colorama
+ell
+tqdm
+Pillow
+replicate
+requests
+markdown
+bleach
+aiohttp
+Wand
+emoji
+scikit-learn

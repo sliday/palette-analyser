@@ -1,0 +1,6 @@
+data/
+out/
+.DS_Store
+*.log
+*.html
+metadata.json
