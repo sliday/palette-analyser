@@ -1,6 +1,10 @@
 # Palette Analyzer & Post Writer
+Powered by [Site Palette](https://palette.site)
 
 This script generates blog posts about color palettes with accompanying HTML, metadata, and OG images.
+
+![image](https://github.com/user-attachments/assets/b65f197b-35cb-4aad-b91c-920c10e127ed)
+![CleanShot 2024-10-03 at 23 58 33@2x](https://github.com/user-attachments/assets/d0c85ddf-6e12-4553-8562-fa84dbfc3c48)
 
 ## Requirements
 
