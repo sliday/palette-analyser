@@ -1,4 +1,4 @@
-# Palette Analyzer & Post Writer
+# Colour Palette Analyzer & Blog Post Writer
 Powered by [Site Palette](https://palette.site)
 
 This script generates blog posts about color palettes with accompanying HTML, metadata, and OG images.
